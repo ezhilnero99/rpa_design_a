@@ -5,8 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-    int variable;
-    int newvar;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
